@@ -14,7 +14,7 @@ Project Overview
 
 This repository contains my Digital Literacy Portfolio Project, created as part of the CSE0001 Digital Literacy course. The aim of this project is to showcase the digital skills I have been learning, such as building professional online profiles, using collaboration tools, practicing coding on different platforms, communicating professionally through email, and understanding the importance of cybercrime awareness and online safety.
 
-Working on this project helped me explore how digital tools can be used effectively for learning and professional development. As a Student Digital Ambassador, I also want to encourage other students to use digital technologies responsibly and safely. Through this portfolio, I hope to demonstrate the value of digital literacy and how these skills can help students grow academically and professionally in today’s digital world.
+Working on this project helped me explore how digital tools can be used effectively for learning and professional development. As a Student , I also want to encourage other students to use digital technologies responsibly and safely. Through this portfolio, I hope to demonstrate the value of digital literacy and how these skills can help students grow academically and professionally in today’s digital world.
 
 
 Project Tasks
