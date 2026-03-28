@@ -40,3 +40,10 @@ Drafted professional emails and created a Social Media Do's and Don'ts checklist
 Task 5 – Cybercrime Awareness
 
 Prepared a case study on Identity Theft and created a Stay Safe Online prevention checklist to spread awareness about cybercrime.
+
+
+Conclusion
+
+This project helped me realize how important digital literacy is in today’s world. While working on it, I learned more about online safety, professional communication, and how different digital collaboration tools can be used effectively. It also made me more aware of how we present ourselves online.
+
+Most importantly, this project was a starting point for building my professional digital presence. By exploring different platforms and tools, I began taking small but meaningful steps toward developing skills that will be useful throughout my academic journey and future career.
